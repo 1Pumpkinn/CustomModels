@@ -1,0 +1,6 @@
+name: CustomModels
+version: '1.0-SNAPSHOT'
+main: hs.customModels.CustomModels
+api-version: '1.21'
+load: STARTUP
+authors: [ ___Pumpkinn ]
